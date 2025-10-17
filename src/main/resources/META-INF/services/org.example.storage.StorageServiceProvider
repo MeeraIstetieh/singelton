@@ -1,0 +1,2 @@
+org.example.storage.LocalStorageServiceProvider
+org.example.storage.CloudStorageServiceProvider
